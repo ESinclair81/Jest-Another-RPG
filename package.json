@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Commamd line RPG to test with JEST ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESinclair81/Jest-Another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "JEST",
+    "test",
+    "terminal"
+  ],
+  "author": "E Sinclair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESinclair81/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/ESinclair81/Jest-Another-RPG#readme"
+}
